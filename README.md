@@ -1,6 +1,6 @@
 # Cyber-Risk-Assessment
 
-**Cyber Risk Assessment of Coventry Airport**
+**Cyber Risk Assessment of Airport X**
 
 Performed a comprehensive risk assessment of Coventry Airport’s IIoT devices, smart infrastructure, and operational technology.
 
